@@ -20,32 +20,21 @@
 //   :#&7:G@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&7   //
 //    ^^ 75YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY^    //
 //                                                  //
-//            Unity Custom Weapons v1.0.0           //
+//         Crossworld Custom Weapons v1.0.0         //
 //                                                  //
-//             私たちはひとつになって強い。            //
-//              We are strong as one.               //
-//                                                  //
-//                        Project Unison            //
-//        Presented by プロジェクト・ユーニソン       //
+//            Presented by Project Unison           //
 //--------------------------------------------------//
 //--------------------------------------------------//
-	#base "custom_hud/SDK2013MP Defaults.txt"
-	#base "custom_hud/Live TF2 T.I.P.txt"
-	#base "custom_hud/Live TF2 Extras + Tweaks.txt"
-	#base "custom_hud/Mombae Weapons Pack.txt"
-	#base "custom_hud/New-Old Weapons Pack!.txt"
 
-"custom_kill_icons"
+//------------------//
+//-- Item Schemas --//
+//------------------//
+	#base "items_game_tf2c.txt" 				// Base TF2C Items_Game
+	
+	#base "custom_items/tf2turbo.txt"      			// TF2Turbo Reloaded
+	#base "custom_items/mannly_munitions.txt"		// Mannly Munitions + Roon's Live TF2 Patch
+	#base "custom_items/mombaes_fun_pack.txt"      		// Mombae's Fun Pack
+
+"items_game"
 {
-	TextureFileRefs
-	{
-		"dfile"
-		{
-			"prefix"		"d_"
-		}
-		"dnegfile"
-		{
-			"prefix"		"dneg_"
-		}
-	}
 }

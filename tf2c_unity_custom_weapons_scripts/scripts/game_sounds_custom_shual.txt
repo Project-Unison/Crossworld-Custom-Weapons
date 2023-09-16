@@ -1,0 +1,219 @@
+// ------------------------------------------------------------------------------------ //
+// SCOTTISH RESISTANCE CUSTOM SOUNDS
+// ------------------------------------------------------------------------------------ //
+"Weapon_ScottishLauncher.Single"
+{
+	"channel"	"CHAN_WEAPON"
+	"soundlevel"	"SNDLVL_94dB"
+	"volume"	"1.0"
+	"wave"		")weapons/scottish_shoot.wav"
+}
+
+"Weapon_ScottishLauncher.SingleCrit"
+{
+	"channel"	"CHAN_WEAPON"
+	"soundlevel"	"SNDLVL_94dB"
+	"volume"	"1.0"
+	"wave"		")weapons/scottish_shoot_crit.wav"
+}
+// ------------------------------------------------------------------------------------ //
+// VALVE RL
+// ------------------------------------------------------------------------------------ //
+"Weapon_ValveRL.Single"
+{
+	"channel"	"CHAN_WEAPON"
+	"volume"	"1"
+	"soundlevel"	"SNDLVL_94dB"
+	"wave"		"weapons\valve_rl_shoot.wav"
+}
+
+"Weapon_ValveRL.Explode"
+{
+	"channel"	"CHAN_STATIC"
+	"soundlevel"	"SNDLVL_95dB"
+	"volume"	"1"
+	"pitch"		"PITCH_NORM"
+	"wave"		"weapons\valve_rl_explode.wav"
+}
+// ------------------------------------------------------------------------------------ //
+// CUSTOM WRANGLER
+// ------------------------------------------------------------------------------------ //
+"Weapon_Wrangler.Single"
+{
+	"channel"	"CHAN_WEAPON"
+	"soundlevel"	"SNDLVL_94dB"
+	"volume"	"1.0"
+	"wave"		")weapons/wrangler_shoot.wav"
+}
+// ------------------------------------------------------------------------------------ //
+// AP-SAP VOICE STUFF
+// ------------------------------------------------------------------------------------ //
+"Weapon_ApSap.Draw"
+{
+	"channel"	"CHAN_AUTO"
+	"volume"	".5"
+	"soundlevel"	"SNDLVL_74dB"
+    "rndwave"
+	{
+		"wave"		")vo/items/wheatley_sapper/wheatley_sapper_pulledout01.wav"
+		"wave"		")vo/items/wheatley_sapper/wheatley_sapper_pulledout02.wav"
+		"wave"		")vo/items/wheatley_sapper/wheatley_sapper_pulledout03.wav"
+		"wave"		")vo/items/wheatley_sapper/wheatley_sapper_pulledout04.wav"
+		"wave"		")vo/items/wheatley_sapper/wheatley_sapper_pulledout05.wav"
+		"wave"		")vo/items/wheatley_sapper/wheatley_sapper_pulledout06.wav"
+		"wave"		")vo/items/wheatley_sapper/wheatley_sapper_pulledout07.wav"
+		"wave"		")vo/items/wheatley_sapper/wheatley_sapper_pulledout08.wav"
+		"wave"		")vo/items/wheatley_sapper/wheatley_sapper_pulledout09.wav"
+		"wave"		")vo/items/wheatley_sapper/wheatley_sapper_pulledout11.wav"
+		"wave"		")vo/items/wheatley_sapper/wheatley_sapper_pulledout12.wav"
+		"wave"		")vo/items/wheatley_sapper/wheatley_sapper_pulledout13.wav"
+		"wave"		")vo/items/wheatley_sapper/wheatley_sapper_pulledout14.wav"
+		"wave"		")vo/items/wheatley_sapper/wheatley_sapper_pulledout16.wav"
+		"wave"		")vo/items/wheatley_sapper/wheatley_sapper_pulledout18.wav"
+		"wave"		")vo/items/wheatley_sapper/wheatley_sapper_pulledout19.wav"
+		"wave"		")vo/items/wheatley_sapper/wheatley_sapper_pulledout20.wav"
+		"wave"		")vo/items/wheatley_sapper/wheatley_sapper_pulledout21.wav"
+		"wave"		")vo/items/wheatley_sapper/wheatley_sapper_pulledout22.wav"
+		"wave"		")vo/items/wheatley_sapper/wheatley_sapper_pulledout23.wav"
+		"wave"		")vo/items/wheatley_sapper/wheatley_sapper_pulledout24.wav"
+		"wave"		")vo/items/wheatley_sapper/wheatley_sapper_pulledout25.wav"
+		"wave"		")vo/items/wheatley_sapper/wheatley_sapper_pulledout26.wav"
+		"wave"		")vo/items/wheatley_sapper/wheatley_sapper_pulledout29.wav"
+		"wave"		")vo/items/wheatley_sapper/wheatley_sapper_pulledout36.wav"
+		"wave"		")vo/items/wheatley_sapper/wheatley_sapper_pulledout37.wav"
+		"wave"		")vo/items/wheatley_sapper/wheatley_sapper_pulledout38.wav"
+		"wave"		")vo/items/wheatley_sapper/wheatley_sapper_pulledout39.wav"
+		"wave"		")vo/items/wheatley_sapper/wheatley_sapper_pulledout40.wav"
+		"wave"		")vo/items/wheatley_sapper/wheatley_sapper_pulledout41.wav"
+		"wave"		")vo/items/wheatley_sapper/wheatley_sapper_pulledout44.wav"
+		"wave"		")vo/items/wheatley_sapper/wheatley_sapper_pulledout46.wav"
+		"wave"		")vo/items/wheatley_sapper/wheatley_sapper_pulledout59.wav"
+		"wave"		")vo/items/wheatley_sapper/wheatley_sapper_pulledout60.wav"
+		"wave"		")vo/items/wheatley_sapper/wheatley_sapper_pulledout64.wav"
+		"wave"		")vo/items/wheatley_sapper/wheatley_sapper_pulledoutagain03.wav"
+		"wave"		")vo/items/wheatley_sapper/wheatley_sapper_pulledoutagain04.wav"
+		"wave"		")vo/items/wheatley_sapper/wheatley_sapper_pulledoutagain05.wav"
+		"wave"		")vo/items/wheatley_sapper/wheatley_sapper_attack01.wav"
+		"wave"		")vo/items/wheatley_sapper/wheatley_sapper_attack02.wav"
+		"wave"		")vo/items/wheatley_sapper/wheatley_sapper_attack03.wav"
+		"wave"		")vo/items/wheatley_sapper/wheatley_sapper_attack04.wav"
+		"wave"		")vo/items/wheatley_sapper/wheatley_sapper_attack05.wav"
+		"wave"		")vo/items/wheatley_sapper/wheatley_sapper_attack08.wav"
+		"wave"		")vo/items/wheatley_sapper/wheatley_sapper_attack09.wav"
+		"wave"		")vo/items/wheatley_sapper/wheatley_sapper_attack10.wav"
+		"wave"		")vo/items/wheatley_sapper/wheatley_sapper_attack11.wav"
+		"wave"		")vo/items/wheatley_sapper/wheatley_sapper_intro01.wav"
+		"wave"		")vo/items/wheatley_sapper/wheatley_sapper_intro02.wav"
+		"wave"		")vo/items/wheatley_sapper/wheatley_sapper_intro03.wav"
+		"wave"		")vo/items/wheatley_sapper/wheatley_sapper_intro04.wav"
+		"wave"		")vo/items/wheatley_sapper/wheatley_sapper_intro05.wav"
+		"wave"		")vo/items/wheatley_sapper/wheatley_sapper_sneak01.wav"
+		"wave"		")vo/items/wheatley_sapper/wheatley_sapper_sneak02.wav"
+		"wave"		")vo/items/wheatley_sapper/wheatley_sapper_sneak03.wav"
+		"wave"		")vo/items/wheatley_sapper/wheatley_sapper_sneak04.wav"
+		"wave"		")vo/items/wheatley_sapper/wheatley_sapper_sneak05.wav"
+	}
+}
+// ------------------------------------------------------------------------------------ //
+// DEAD RINGER UNCLOAK
+// ------------------------------------------------------------------------------------ //
+"Player.Spy_UnCloakFeignDeath"
+{
+	"channel"	"CHAN_STATIC"
+	"volume"	"0.7"
+	"soundlevel"  	"SNDLVL_75dB"
+	"wave"		"player/spy_uncloak_feigndeath.wav"
+}
+// ------------------------------------------------------------------------------------ //
+// JUMPER WHISTLING
+// ------------------------------------------------------------------------------------ //
+"BlastJump.Whistle"
+{
+	"channel"		"CHAN_STATIC"
+	"soundlevel"	"SNDLVL_85dB"
+	"volume"		"0.8"
+	"wave"			"misc/grenade_jump_lp_01.wav"
+}
+// ------------------------------------------------------------------------------------ //
+// GRENADE SOUNDS
+// ------------------------------------------------------------------------------------ //
+"Weapon_Grenade.PullPin"
+{
+	"channel"	"CHAN_ITEM"
+	"soundlevel"	"SNDLVL_NORM"
+	"volume"	"0.35"
+	"rndwave"
+	{
+		"wave"		"weapons/grenade_pin_pull1.wav"
+		"wave"		"weapons/grenade_pin_pull2.wav"
+		"wave"		"weapons/grenade_pin_pull3.wav"
+	}
+}
+// ------------------------------------------------------------------------------------ //
+// SODA CAN
+// ------------------------------------------------------------------------------------ //
+"Scout.DodgeCanOpen"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1"
+	"soundlevel"	"SNDLVL_84dB"
+	"pitch"		"PITCH_NORM"
+	"wave"		"player/pl_scout_dodge_can_open.wav"
+}
+"Weapon_Jarate.Draw"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1.0"
+	"soundlevel"	"SNDLVL_75dB"
+	
+	"wave"	"weapons/draw_jarate.wav"
+}
+// ------------------------------------------------------------------------------------ //
+// SPELLBOOK STUFF
+// ------------------------------------------------------------------------------------ //
+"Weapon_SpellFireball.Single"
+{
+	"channel"	"CHAN_WEAPON"
+	"volume"	"1"
+	"soundlevel"	"SNDLVL_94dB"
+	"wave"		"weapons\spell_fireball_cast.wav"
+}
+"Weapon_SpellFireball.Explode"
+{
+	"channel"	"CHAN_WEAPON"
+	"soundlevel"	"SNDLVL_95dB"
+	"volume"	"1.0"
+	"wave"	"weapons\spell_fireball_impact.wav"
+}
+"Weapon_SpellPumpkin.Single"
+{
+	"channel"	"CHAN_WEAPON"
+	"volume"	"1"
+	"soundlevel"	"SNDLVL_94dB"
+	"wave"		"weapons\spell_mirv_cast.wav"
+}
+"Weapon_SpellPumpkin.Explode"
+{
+	"channel"	"CHAN_WEAPON"
+	"soundlevel"	"SNDLVL_95dB"
+	"volume"	"1.0"
+	"rndwave"
+	{
+		"wave"		"weapons/spell_mirv_explode_primary.wav"
+		"wave"		"weapons/spell_mirv_explode_secondary.wav"
+	}
+}
+"Weapon_SpellJumpboost.Single"
+{
+	"channel"	"CHAN_WEAPON"
+	"volume"	"1"
+	"soundlevel"	"SNDLVL_94dB"
+	"wave"		"weapons\spell_blast_jump.wav"
+}
+"Weapon_SpellHealAura.Single"
+{
+	"channel"	"CHAN_WEAPON"
+	"volume"	"1"
+	"soundlevel"	"SNDLVL_94dB"
+	"wave"		"weapons\spell_overheal.wav"
+}

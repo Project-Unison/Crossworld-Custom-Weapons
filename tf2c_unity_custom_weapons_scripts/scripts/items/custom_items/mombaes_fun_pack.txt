@@ -1,4 +1,4 @@
-"items_game"
+"Mombaes_Fun_Pack"
 {
 	"items"
 	{
@@ -7,6 +7,8 @@
 // 
 // Big thanks to all the workshop creators whos work i used as well as great thanks to Fred McFrizzle and SilentFox on whos weapon packs i was basing on
 // I left some messeges around certain guns if you want to know some details about each one i did.
+
+
 //-------------------------
 //-------------------------
 //--THE RAIDING AID (PYRO) - 30000--
@@ -1274,7 +1276,7 @@ Ride the wind that brings the rain"
 		{
 			"name"						"TF_WEAPON_BLACKBOX"
 			"prefab"					"weapon_rocketlauncher"
-			"show_in_armory"			"0"
+			"show_in_armory"			"1"
 
 			"propername"				"1"
 			"item_quality"				"unique"
@@ -1789,7 +1791,7 @@ Every horseman worth their mettle needs a good Saber."
 			"item_class"				"tf_weapon_flamethrower"
 			"prefab"					"weapon_flamethrower"
 			"item_quality"				"unique"
-			"show_in_armory"				"0"
+			"show_in_armory"				"1"
 			"item_slot"					"primary"
 			"anim_slot"					"primary"
 
@@ -2097,7 +2099,7 @@ and cracking a skull exactly in half."
 			"item_class"				"tf_weapon_flamethrower"
 			"prefab"					"weapon_flamethrower"
 			"item_quality"				"unique"
-			"show_in_armory"				"0"
+			"show_in_armory"				"1"
 			"item_slot"					"primary"
 			"anim_slot"					"primary"
 
@@ -3547,7 +3549,7 @@ couldn't have both.'"
 		{
 			"name"						"TF_WEAPON_GATLING"
 			"prefab"					"weapon_minigun"
-			"show_in_armory"			"0"
+			"show_in_armory"			"1"
 
 			"propername"				"1"
 			"item_quality"				"unique"
@@ -3787,7 +3789,7 @@ Ain't that Heavy as it seems."
 		{
 			"name"						"TF_WEAPON_CANTON"
 			"prefab"					"weapon_aagun"										
-			"show_in_armory"			"0"
+			"show_in_armory"			"1"
 
 			"propername"				"1"
 			"item_quality"				"unique"
@@ -4447,7 +4449,7 @@ Any Trapper worth their salt knows how to use their traps as make-shift gloves."
 		{
 			"name"						"TF_WEAPON_JAG"
 			"prefab"					"weapon_wrench"
-			"show_in_armory"			"0"
+			"show_in_armory"			"1"
 
 			"propername"				"1"
 			"item_quality"				"unique"
@@ -7171,7 +7173,7 @@ a more civilized age.'"
         {
             "name"						"TF_WEAPON_DEADRINGER"
             "prefab"					"weapon_invis"
-            "show_in_armory"			"0"
+            "show_in_armory"			"1"
 			"propername"				"1"
 			"item_quality"				"unique"
 			"item_name"					"Dead Ringer"
@@ -7380,6 +7382,7 @@ Music to the Spy's ears."
 			"mouse_pressed_sound"		"#ui/item_light_gun_pickup.wav"
 			"drop_sound"				"#ui/item_light_gun_drop.wav"
 		}
+	}
 	"attributes"
 	{
 	}
