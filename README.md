@@ -8,7 +8,7 @@ Crossworld Custom Weapons is the spiritual successor of Fusion Custom Weapon whi
 * [TF2Turbo Reloaded](https://github.com/azzyr/tf2turbo-reloaded)
 
 # Download assets
-**Assets will NOT be present due to copyright issue. You should go download the original mods from above sources and download the script mod from [releases page](https://github.com/Project-Unison/Unity-Custom-Weapons/releases) and put vpk file to custom folder.**
+**Assets will NOT be present due to copyright issue. You should go download the original mods from above sources and download the script mod from [releases page](https://github.com/Project-Unison/Crossworld-Custom-Weapons/releases) and put vpk file to custom folder.**
 
 # List of server
 You can find the list of server [right here](https://github.com/Project-Unison/Wiki/wiki/List-of-Servers).
